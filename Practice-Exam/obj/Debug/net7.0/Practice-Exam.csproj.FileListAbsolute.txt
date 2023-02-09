@@ -1,0 +1,15 @@
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\bin\Debug\net7.0\Practice-Exam.exe
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\bin\Debug\net7.0\Practice-Exam.deps.json
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\bin\Debug\net7.0\Practice-Exam.runtimeconfig.json
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\bin\Debug\net7.0\Practice-Exam.dll
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\bin\Debug\net7.0\Practice-Exam.pdb
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\obj\Debug\net7.0\Practice-Exam.csproj.AssemblyReference.cache
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\obj\Debug\net7.0\Practice-Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\obj\Debug\net7.0\Practice-Exam.AssemblyInfoInputs.cache
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\obj\Debug\net7.0\Practice-Exam.AssemblyInfo.cs
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\obj\Debug\net7.0\Practice-Exam.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\obj\Debug\net7.0\Practice-Exam.dll
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\obj\Debug\net7.0\refint\Practice-Exam.dll
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\obj\Debug\net7.0\Practice-Exam.pdb
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\obj\Debug\net7.0\Practice-Exam.genruntimeconfig.cache
+C:\Users\Nguyen Huu Linh\source\repos\Practice-Exam\Practice-Exam\obj\Debug\net7.0\ref\Practice-Exam.dll
