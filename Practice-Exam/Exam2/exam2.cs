@@ -14,8 +14,9 @@ class Animal
 
     public virtual void Show()
     {
-        Console.WriteLine("Weight: " + weight);
         Console.WriteLine("Name: " + name);
+        Console.WriteLine("Weight: " + weight);
+        
     }
 }
 
@@ -28,7 +29,7 @@ class Lion : Animal
 
     public override void Show()
     {
-        Console.WriteLine("Lion Information");
+
         base.Show();
     }
 }
@@ -42,7 +43,6 @@ class Tiger : Animal
 
     public override void Show()
     {
-        Console.WriteLine("Tiger Information");
         base.Show();
     }
 }
